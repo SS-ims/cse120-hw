@@ -1,10 +1,11 @@
 using System;
 
-class Program
+public class RandomGenerator
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
         // create an instance of Random
+
         Random rnd = new Random();
 
         int someRandomNumber = rnd.Next();
