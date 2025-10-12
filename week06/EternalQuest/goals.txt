@@ -1,0 +1,4 @@
+0
+1
+Bronze 🟤
+SimpleGoal:run,run  20km daily,10,False
